@@ -11,9 +11,9 @@ Example:
 
 
 ## Bruh Button Emoji Replacer
-This replace every discord emoji (including custom ones) with a bruh button. You can even put in your own 32x32 image to replace all emotes with a custom URL.
+This replaces every Discord emoji (including custom ones) with a bruh button. You can even put in your own 32x32 image in the CSS file to replace all emotes with your own URL.
 
-Example:
+Example (before/after):
 
 ![Before](https://i.imgur.com/BNOP6Hg.png)
 
