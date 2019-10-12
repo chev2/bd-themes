@@ -1,0 +1,43 @@
+//META{"name":"Chromodynamics Syntax Highlight","description":"Changes Discord's syntax highlighting to match the Chromodynamics color scheme from Sublime Text","author":"Chev","version":"1.0.0"}*//{}
+
+.hljs-tag,
+.hljs-important,
+.hljs-at_rule,
+.hljs-keyword {
+	color: #f92672 !important;
+}
+.hljs-class,
+.hljs-id {
+	color: #A6E22E !important;
+}
+.hljs-params {
+	color: #D77C23 !important;
+}
+.hljs-string,
+.hljs-attr {
+	color: #FFE792 !important;
+}
+.hljs-number,
+.hljs-literal {
+	color: #9a79d7 !important;
+}
+.hljs-title {
+	color: #25b800 !important;
+}
+.hljs-built_in {
+	color: #66D9EF !important;
+}
+.hljs-value,
+.hljs-hexcolor,
+.hljs-function {
+	color: rgba(255, 255, 255, 0.8) !important;
+}
+.hljs-attribute {
+	color: #82d4e5 !important;
+}
+.hljs-comment {
+	color: #747475 !important;
+}
+.hljs-pseudo {
+	color: #fff !important;
+}
