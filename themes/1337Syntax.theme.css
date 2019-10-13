@@ -1,0 +1,45 @@
+//META{"name":"1337 Syntax Highlight","description":"Changes Discord's syntax highlighting to match the 1337 color scheme from Sublime Text","author":"Chev","version":"1.0.0"}*//{}
+
+.hljs-tag,
+.hljs-important,
+.hljs-at_rule,
+.hljs-keyword {
+	color: #ff5e5e !important;
+}
+.hljs-class,
+.hljs-id {
+	color: #8cdaff !important;
+}
+.hljs-params {
+	color: #d0d0d0 !important;
+}
+.hljs-string,
+.hljs-attr {
+	color: #fbe3bf !important;
+}
+.hljs-number {
+	color: #fdb082 !important;
+}
+.hljs-literal {
+	color: #fc9354 !important;
+}
+.hljs-title {
+	color: #8cdaff !important;
+}
+.hljs-built_in {
+	color: #6699cc !important;
+}
+.hljs-value,
+.hljs-hexcolor,
+.hljs-function {
+	color: rgba(255, 255, 255, 0.8) !important;
+}
+.hljs-attribute {
+	color: #82d4e5 !important;
+}
+.hljs-comment {
+	color: #6d6d6d !important;
+}
+.hljs-pseudo {
+	color: #fff !important;
+}

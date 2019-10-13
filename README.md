@@ -10,6 +10,13 @@ Example:
 ![Chromodynamics Example](https://i.imgur.com/K7oZtF4.png)
 
 
+## 1337 Syntax Highlighting
+
+Example:
+
+![1337 Example](https://i.imgur.com/eb8pCR9.png)
+
+
 ## Bruh Button Emoji Replacer
 This replaces every Discord emoji (including custom ones) with a bruh button. You can even put in your own 32x32 image in the CSS file to replace all emotes with your own URL.
 
