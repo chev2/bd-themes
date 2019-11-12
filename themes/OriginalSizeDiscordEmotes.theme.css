@@ -1,0 +1,6 @@
+//META{"name":"Original Sized Emotes","description":"Makes all the discord emotes the old size (32px)","author":"Chev","version":"1.0.0"}*//
+.emoji.jumboable {
+  	width: 32px;
+  	height: 32px;
+  	min-height: 32px;
+}
