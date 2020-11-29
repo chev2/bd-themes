@@ -1,0 +1,33 @@
+//META{"name":"Darker Dark","description":"A darker dark theme for Discord","author":"Chev","version":"1.0.0"}*//{}
+
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #bbbbbb;
+    --text-normal: #c5c5c5;
+    --text-muted: #767676;
+    --text-link: #00b0f4;
+    --channels-default: #929292;
+    --interactive-normal: #bbbbbb;
+    --interactive-hover: #dddddd;
+    --interactive-active: #fff;
+    --interactive-muted: #535353;
+    --background-primary: #252525;
+    --background-secondary: #202020;
+    --background-secondary-alt: #232323;
+    --background-tertiary: #171717;
+    --background-accent: #3e3e3e;
+    --background-floating: #191919;
+    --scrollbar-thin-thumb: #202225;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #333333;
+    --scrollbar-auto-track: #1f1f1f;
+    --scrollbar-auto-scrollbar-color-thumb: #222222;
+    --scrollbar-auto-scrollbar-color-track: #313131;
+    --channeltextarea-background: #2c2c2c;
+    --activity-card-background: #171717;
+    --textbox-markdown-syntax: #929292;
+}
+
+.theme-dark .container-1D34oG {
+    background-color: var(--background-primary);
+}
