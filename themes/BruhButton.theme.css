@@ -1,5 +1,0 @@
-//META{"name":"Bruh Button Emotes","description":"Change all Discord emotes to a bruh button","author":"Chev","version":"1.0.1"}*//
-.emoji, .da-emojiItem, .da-spriteItem {
-	content: url("https://i.imgur.com/tL3jpys.png") !important;
-	background-image: none !important;
-}
