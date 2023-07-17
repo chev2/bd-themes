@@ -1,4 +1,10 @@
-//META{"name":"Chromodynamics Syntax Highlight","description":"Changes Discord's syntax highlighting to match the Chromodynamics color scheme from Sublime Text","author":"Chev","version":"1.0.0"}*//{}
+/**
+ * @name Chromodynamics Syntax Highlighting
+ * @author Chev
+ * @version 1.0.0
+ * @description Adds chromodynamics syntax highlighting from Sublime Text to Discord.
+ * @source https://github.com/chev2/bd-themes
+*/
 
 .hljs-tag,
 .hljs-important,

@@ -1,4 +1,10 @@
-//META{"name":"1337 Syntax Highlight","description":"Changes Discord's syntax highlighting to match the 1337 color scheme from Sublime Text","author":"Chev","version":"1.0.0"}*//{}
+/**
+ * @name 1337 Syntax Highlighting
+ * @author Chev
+ * @version 1.0.0
+ * @description Adds 1337 syntax highlighting from Sublime Text to Discord.
+ * @source https://github.com/chev2/bd-themes
+*/
 
 .hljs-tag,
 .hljs-important,
