@@ -1,21 +1,28 @@
 # Better Discord Themes
 A collection of CSS Themes for BetterDiscord.
 
+Some screenshots shown here were previewed using [Gibbu's theme previewer](https://gibbu.github.io/ThemePreview/).
 
 ## Chromodynamics Syntax Highlighting
-This replaces the default highlight.js syntax highlight to a chromodynamics-like color scheme from Sublime Text.
+Adds chromodynamics syntax highlighting from Sublime Text to Discord.
 
-Example:
+Preview:
 
-![Chromodynamics Example](https://i.imgur.com/K7oZtF4.png)
+![Chromodynamics Preview](/screenshots/syntax_hl_chromodynamics.png)
 
 
 ## 1337 Syntax Highlighting
+Adds 1337 syntax highlighting from Sublime Text to Discord.
 
-Example:
+Preview:
 
-![1337 Example](https://i.imgur.com/eb8pCR9.png)
+![1337 Preview](/screenshots/syntax_hl_1337.png)
 
 ## Darker Dark
 
 A theme which makes the standard 'dark' theme of Discord a little bit darker.
+
+Preview:
+
+![Darker Dark Preview](/screenshots/theme_darker_dark.png)
+
